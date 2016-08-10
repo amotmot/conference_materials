@@ -2,10 +2,10 @@ hitb Sec Conf 2014
 * https://conference.hitb.org/hitbsecconf2014kul/materials/
 
 Ruxcon 2014
-* https://ruxcon.org.au/slides/
+* http://2014.ruxcon.org.au/slides/
 
 ShmooCon 2015
-* https://www.dropbox.com/sh/00xscamfbhpi5he/AABlLH__FOvJh_YfHmtVsDPia?lst=
+* https://www.youtube.com/playlist?list=PLStO1VqVBvmHyVc71QLOCBKugWQyyM7WE
 
 OWASP AppSec Califrnia 2016
 * https://www.youtube.com/playlist?list=PLpr-xdpM8wG8fNc1gwXz4SXKTRB4yZB5v
