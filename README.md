@@ -1,5 +1,5 @@
 hitb Sec Conf 2014
-* http://conference.hitb.org/hitbsecconf2014kul/materials/
+* https://conference.hitb.org/hitbsecconf2014kul/materials/
 
 Ruxcon 2014
 * https://ruxcon.org.au/slides/
