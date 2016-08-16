@@ -1,8 +1,9 @@
 nsec 2016
-https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI
+* https://www.youtube.com/playlist?list=PLuUtcRxSUZUpg-z0MkDrFrwMiiFMVr1yI
 
 Blackhat US 2016
 * https://www.blackhat.com/us-16/briefings.html
+* https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw
 
 DEFCON 24
 * https://media.defcon.org/DEF%20CON%2024/
